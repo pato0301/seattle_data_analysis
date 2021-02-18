@@ -17,6 +17,8 @@ This project is executed by the CRISP-DM which involves the following steps:
 5. Evaluation 
 6. Deployment
 
+You can check all the analysis, steps and findings the medium post in the following [link](https://patonv.medium.com/seattle-airbnb-udacity-project-2d1e583e8155)
+
 ## installations required
 
 Python 3.6. or above
